@@ -1,0 +1,501 @@
+city,area,bhk,furnishing,parking,age,bathrooms,rent
+Vellore,1477,1,Semi Furnished,0,15,3,15931
+Tiruchirappalli,2891,4,Fully Furnished,0,4,1,45893
+Salem,2711,3,Unfurnished,0,13,2,30826
+Vellore,1995,1,Semi Furnished,1,19,3,20481
+Madurai,404,2,Semi Furnished,1,2,1,6464
+Salem,1526,2,Unfurnished,0,14,3,16475
+Salem,1619,4,Fully Furnished,1,4,3,25062
+Vellore,1173,2,Unfurnished,0,16,3,10953
+Coimbatore,1276,1,Fully Furnished,1,14,3,23284
+Madurai,1391,2,Semi Furnished,0,15,1,15671
+Vellore,446,3,Fully Furnished,1,3,2,7976
+Madurai,668,3,Semi Furnished,0,8,1,9037
+Madurai,769,4,Unfurnished,0,16,1,9201
+Salem,1035,1,Unfurnished,1,10,1,10126
+Tiruchirappalli,1529,3,Unfurnished,0,4,2,19371
+Madurai,2093,3,Fully Furnished,1,18,3,37714
+Tiruppur,2082,1,Semi Furnished,1,2,3,25237
+Salem,1056,2,Unfurnished,0,17,3,10662
+Coimbatore,519,2,Unfurnished,1,13,2,9453
+Tiruchirappalli,1230,4,Semi Furnished,1,4,3,20675
+Tiruppur,2210,2,Unfurnished,1,11,2,24923
+Tiruppur,1481,1,Semi Furnished,1,7,3,19022
+Coimbatore,2374,3,Semi Furnished,1,12,3,47081
+Tiruchirappalli,1769,2,Semi Furnished,0,10,1,19262
+Salem,1140,4,Semi Furnished,1,7,2,17619
+Chennai,516,2,Semi Furnished,1,13,1,11940
+Tiruchirappalli,2253,1,Fully Furnished,1,7,1,29466
+Coimbatore,1550,4,Unfurnished,1,17,1,27945
+Tiruppur,2331,2,Fully Furnished,1,10,2,33145
+Salem,1412,4,Unfurnished,0,10,2,16127
+Tiruchirappalli,2064,1,Fully Furnished,1,4,3,29643
+Chennai,1481,3,Semi Furnished,0,4,1,40635
+Chennai,1033,1,Unfurnished,0,7,3,22183
+Madurai,912,1,Unfurnished,0,1,1,9411
+Madurai,1519,1,Fully Furnished,0,12,2,21012
+Vellore,1541,1,Fully Furnished,1,13,2,17689
+Coimbatore,959,3,Unfurnished,0,10,2,14763
+Tiruchirappalli,887,3,Fully Furnished,0,15,1,11199
+Tiruchirappalli,1296,4,Fully Furnished,1,13,2,22049
+Vellore,1612,2,Fully Furnished,1,9,1,20740
+Tiruppur,1103,3,Semi Furnished,1,9,3,17729
+Tiruppur,1870,3,Semi Furnished,0,15,1,23123
+Vellore,980,2,Fully Furnished,1,10,3,14470
+Tiruppur,2694,3,Fully Furnished,1,10,1,40626
+Madurai,553,1,Semi Furnished,0,8,3,7644
+Tiruchirappalli,2079,1,Semi Furnished,1,16,2,23426
+Vellore,1396,2,Unfurnished,1,17,3,15395
+Tiruchirappalli,1643,4,Unfurnished,1,5,2,22764
+Chennai,1492,4,Semi Furnished,1,4,2,45930
+Madurai,1408,2,Fully Furnished,0,18,3,22801
+Salem,2541,2,Fully Furnished,1,19,1,31674
+Madurai,2173,1,Fully Furnished,1,4,1,31469
+Vellore,1357,4,Fully Furnished,0,7,1,16682
+Salem,852,3,Unfurnished,1,10,1,10274
+Chennai,1627,1,Semi Furnished,0,18,1,33028
+Vellore,2665,2,Fully Furnished,1,19,2,31080
+Coimbatore,2921,4,Unfurnished,0,4,1,51734
+Tiruchirappalli,2879,3,Fully Furnished,0,10,2,40958
+Chennai,2788,3,Semi Furnished,0,1,2,78452
+Tiruchirappalli,950,1,Unfurnished,0,18,2,8331
+Tiruppur,2035,4,Semi Furnished,1,5,3,30574
+Coimbatore,1712,4,Semi Furnished,0,15,3,34265
+Coimbatore,2157,2,Unfurnished,1,17,2,34491
+Chennai,756,4,Unfurnished,0,3,3,22114
+Coimbatore,2470,4,Unfurnished,0,12,1,40594
+Salem,2185,1,Unfurnished,0,2,1,19786
+Coimbatore,2969,4,Unfurnished,1,1,2,53940
+Tiruchirappalli,2181,3,Unfurnished,0,17,1,22250
+Tiruchirappalli,2889,1,Unfurnished,1,16,2,31139
+Vellore,2031,1,Fully Furnished,1,5,2,24241
+Tiruchirappalli,1415,2,Semi Furnished,1,15,1,16768
+Vellore,1748,4,Unfurnished,1,3,3,23142
+Tiruchirappalli,915,2,Fully Furnished,1,7,1,13981
+Salem,735,3,Fully Furnished,1,11,1,11556
+Vellore,2182,1,Fully Furnished,1,10,2,25265
+Madurai,2705,1,Semi Furnished,1,9,2,32365
+Tiruppur,896,1,Unfurnished,1,14,2,9428
+Chennai,1295,3,Fully Furnished,0,13,2,39482
+Tiruchirappalli,2607,3,Semi Furnished,0,2,3,33395
+Coimbatore,1251,2,Semi Furnished,0,3,3,22984
+Tiruchirappalli,2087,2,Semi Furnished,0,7,3,27280
+Coimbatore,2331,2,Fully Furnished,0,18,2,45014
+Tiruppur,2827,4,Unfurnished,1,3,2,39815
+Tiruppur,1968,1,Fully Furnished,1,10,2,24857
+Tiruppur,1356,1,Fully Furnished,1,7,3,20233
+Coimbatore,2036,2,Unfurnished,1,9,2,34778
+Tiruchirappalli,1691,1,Unfurnished,1,17,1,16219
+Tiruppur,1840,2,Unfurnished,1,11,1,19826
+Salem,1591,4,Semi Furnished,1,7,2,21245
+Vellore,1466,4,Unfurnished,0,14,1,14159
+Coimbatore,684,3,Fully Furnished,0,19,1,11430
+Coimbatore,2844,4,Unfurnished,0,4,3,52169
+Tiruchirappalli,411,2,Fully Furnished,0,6,2,5862
+Coimbatore,2030,4,Semi Furnished,1,10,2,41633
+Coimbatore,2946,3,Fully Furnished,1,7,3,62765
+Tiruppur,1153,1,Fully Furnished,1,13,1,14140
+Tiruchirappalli,2482,2,Unfurnished,0,14,1,25135
+Tiruppur,489,1,Unfurnished,1,4,2,6215
+Vellore,1175,3,Fully Furnished,1,8,1,15968
+Vellore,2025,3,Unfurnished,1,5,3,24447
+Tiruppur,817,3,Semi Furnished,0,1,3,12223
+Vellore,514,1,Semi Furnished,1,4,2,7080
+Tiruchirappalli,1016,1,Unfurnished,0,3,3,11578
+Chennai,1225,1,Semi Furnished,0,9,3,28369
+Tiruppur,2049,1,Unfurnished,0,8,2,21667
+Salem,1916,3,Fully Furnished,0,1,3,26557
+Salem,812,3,Fully Furnished,1,6,3,14048
+Coimbatore,1128,2,Semi Furnished,0,9,3,19392
+Vellore,1075,2,Unfurnished,0,7,1,9210
+Salem,2292,1,Unfurnished,1,4,2,23780
+Coimbatore,2904,4,Semi Furnished,1,13,2,59912
+Chennai,2639,4,Fully Furnished,0,17,2,89175
+Tiruchirappalli,1522,3,Semi Furnished,1,2,1,21544
+Tiruchirappalli,1971,3,Fully Furnished,0,5,1,27666
+Tiruchirappalli,1377,3,Unfurnished,0,12,2,15689
+Salem,1408,2,Fully Furnished,0,8,1,17136
+Chennai,2543,2,Semi Furnished,0,6,2,62444
+Salem,2087,3,Unfurnished,1,8,1,24681
+Vellore,436,3,Semi Furnished,0,18,3,5313
+Salem,1948,3,Semi Furnished,1,3,3,25827
+Chennai,2726,4,Fully Furnished,1,12,2,89313
+Chennai,2664,2,Semi Furnished,1,3,1,67091
+Vellore,1272,4,Fully Furnished,1,6,1,19443
+Chennai,2221,4,Unfurnished,0,2,3,62873
+Chennai,1696,3,Fully Furnished,1,12,3,51509
+Tiruchirappalli,2509,3,Unfurnished,0,2,1,28671
+Vellore,995,1,Fully Furnished,1,6,1,11327
+Madurai,2303,1,Semi Furnished,1,17,1,28364
+Madurai,1128,4,Fully Furnished,0,3,1,19390
+Chennai,1765,2,Fully Furnished,0,2,1,49176
+Madurai,796,3,Unfurnished,0,8,1,9720
+Madurai,1098,3,Semi Furnished,1,12,2,17726
+Chennai,2624,4,Fully Furnished,1,4,1,93444
+Madurai,2035,1,Semi Furnished,0,5,3,27598
+Salem,795,2,Fully Furnished,0,13,2,9349
+Coimbatore,2892,1,Fully Furnished,0,15,1,43058
+Vellore,475,1,Semi Furnished,0,16,3,4813
+Coimbatore,664,1,Fully Furnished,1,10,2,12743
+Chennai,2902,1,Semi Furnished,0,16,3,62764
+Tiruchirappalli,2219,3,Fully Furnished,0,12,1,34650
+Vellore,1117,3,Unfurnished,0,17,1,9639
+Chennai,1250,1,Semi Furnished,0,16,1,25966
+Tiruchirappalli,1790,2,Fully Furnished,1,12,1,24886
+Coimbatore,543,4,Fully Furnished,0,8,2,12284
+Chennai,1284,2,Unfurnished,1,3,2,28232
+Vellore,795,2,Semi Furnished,0,16,3,8760
+Vellore,1892,2,Fully Furnished,0,13,1,23629
+Tiruppur,1567,1,Unfurnished,1,19,3,15610
+Salem,1462,3,Fully Furnished,0,8,2,18865
+Madurai,2556,2,Semi Furnished,1,5,1,37322
+Tiruchirappalli,1465,1,Fully Furnished,1,8,1,19223
+Tiruppur,1609,2,Fully Furnished,0,12,2,21034
+Madurai,2845,2,Fully Furnished,1,1,2,47721
+Madurai,1033,1,Fully Furnished,1,6,2,15395
+Chennai,1556,3,Unfurnished,1,18,2,38032
+Madurai,1638,3,Unfurnished,1,8,2,24254
+Salem,1132,4,Semi Furnished,1,7,1,16919
+Vellore,634,1,Unfurnished,1,1,2,7626
+Tiruppur,1150,4,Unfurnished,1,16,1,14790
+Madurai,1353,4,Semi Furnished,1,12,1,21819
+Chennai,2939,4,Unfurnished,0,6,2,78578
+Salem,1942,3,Unfurnished,0,2,2,22315
+Coimbatore,1597,1,Semi Furnished,1,14,1,22231
+Vellore,2076,4,Semi Furnished,0,4,2,27783
+Vellore,1591,1,Semi Furnished,1,1,2,16994
+Tiruppur,2617,1,Fully Furnished,1,18,2,30094
+Vellore,1816,3,Fully Furnished,0,13,3,25431
+Madurai,1617,4,Semi Furnished,1,2,1,27721
+Chennai,1940,4,Semi Furnished,1,9,3,59344
+Vellore,2476,1,Semi Furnished,1,2,2,26858
+Vellore,1845,2,Fully Furnished,1,9,3,26139
+Coimbatore,2786,3,Fully Furnished,0,1,2,61604
+Coimbatore,1919,3,Unfurnished,1,11,3,33519
+Tiruchirappalli,1788,3,Unfurnished,1,3,2,24947
+Salem,2256,3,Semi Furnished,1,4,3,30977
+Madurai,1765,4,Fully Furnished,0,18,3,34219
+Vellore,899,4,Fully Furnished,1,6,3,15911
+Vellore,2080,2,Fully Furnished,0,3,1,23992
+Chennai,910,3,Semi Furnished,0,11,3,24682
+Tiruchirappalli,616,3,Unfurnished,1,15,1,7207
+Salem,1724,1,Semi Furnished,1,5,2,19525
+Tiruchirappalli,1555,4,Unfurnished,0,10,3,22148
+Tiruppur,2227,3,Unfurnished,1,12,2,27358
+Salem,2210,2,Semi Furnished,0,15,2,24346
+Vellore,2892,2,Unfurnished,0,17,3,27586
+Vellore,1605,4,Unfurnished,1,10,1,17947
+Salem,2614,2,Fully Furnished,1,6,3,34478
+Vellore,490,2,Unfurnished,0,18,2,3839
+Madurai,1113,4,Semi Furnished,0,13,2,17594
+Salem,2281,3,Semi Furnished,0,3,3,27439
+Tiruchirappalli,438,3,Unfurnished,0,10,1,4279
+Salem,572,2,Fully Furnished,1,14,1,7494
+Vellore,1052,2,Fully Furnished,1,6,2,14058
+Madurai,1153,3,Unfurnished,1,3,2,17795
+Madurai,1643,4,Unfurnished,1,16,1,22799
+Tiruppur,1481,2,Semi Furnished,1,7,3,20672
+Tiruchirappalli,2083,1,Unfurnished,0,14,2,19202
+Coimbatore,2923,4,Fully Furnished,1,9,1,65998
+Coimbatore,855,2,Unfurnished,1,15,2,14263
+Salem,1228,2,Semi Furnished,1,3,3,17890
+Tiruppur,1294,1,Semi Furnished,1,2,1,14962
+Chennai,1784,1,Semi Furnished,1,2,2,40755
+Salem,2358,3,Semi Furnished,0,3,3,28624
+Tiruppur,2834,4,Semi Furnished,0,18,2,37158
+Tiruchirappalli,2396,4,Unfurnished,0,14,3,31740
+Tiruchirappalli,2795,3,Unfurnished,1,18,3,34567
+Tiruchirappalli,589,4,Unfurnished,0,10,1,6590
+Tiruchirappalli,904,4,Unfurnished,0,2,3,13900
+Tiruchirappalli,1614,4,Semi Furnished,1,1,2,26194
+Tiruppur,1931,4,Fully Furnished,1,4,3,35460
+Tiruppur,1223,4,Unfurnished,1,14,3,17343
+Madurai,1328,1,Fully Furnished,0,1,1,16822
+Coimbatore,1333,4,Unfurnished,0,14,3,24020
+Vellore,1540,1,Unfurnished,1,16,3,15500
+Tiruchirappalli,533,4,Fully Furnished,1,14,2,10080
+Chennai,2505,3,Semi Furnished,0,3,1,67400
+Vellore,1084,2,Unfurnished,0,3,1,10455
+Tiruppur,2620,1,Unfurnished,1,9,1,24991
+Chennai,2252,4,Unfurnished,1,6,3,67774
+Chennai,1214,3,Fully Furnished,0,13,1,36314
+Chennai,1572,2,Semi Furnished,1,2,3,37492
+Madurai,479,1,Fully Furnished,0,8,3,8475
+Tiruppur,602,2,Fully Furnished,0,2,2,8589
+Chennai,1652,3,Semi Furnished,0,4,2,42847
+Tiruchirappalli,2099,1,Fully Furnished,0,15,2,25906
+Salem,1650,2,Semi Furnished,1,4,2,18953
+Chennai,2082,4,Unfurnished,1,13,2,54544
+Madurai,1955,1,Semi Furnished,0,12,3,25691
+Vellore,2494,2,Unfurnished,0,13,3,25078
+Tiruppur,1656,3,Fully Furnished,0,14,1,22950
+Madurai,1949,3,Fully Furnished,0,18,3,31547
+Chennai,1566,1,Unfurnished,0,6,3,30675
+Tiruppur,1796,2,Fully Furnished,1,11,2,25657
+Salem,870,1,Semi Furnished,1,2,3,12729
+Chennai,1435,1,Unfurnished,1,19,2,29853
+Madurai,1753,2,Fully Furnished,1,19,1,25728
+Coimbatore,1367,2,Unfurnished,0,5,1,19135
+Tiruchirappalli,757,4,Semi Furnished,0,19,3,12195
+Vellore,1067,2,Semi Furnished,0,2,1,11119
+Madurai,772,3,Fully Furnished,0,10,3,13841
+Tiruppur,1431,1,Semi Furnished,0,2,1,14536
+Chennai,1545,1,Unfurnished,1,11,2,32162
+Tiruchirappalli,1771,3,Semi Furnished,0,18,2,23579
+Chennai,489,2,Unfurnished,1,15,2,11746
+Tiruppur,939,3,Unfurnished,1,9,2,12893
+Chennai,1268,3,Semi Furnished,1,19,3,35588
+Coimbatore,440,4,Fully Furnished,1,9,1,10273
+Tiruchirappalli,1139,3,Semi Furnished,0,3,3,17641
+Tiruchirappalli,2346,1,Unfurnished,1,9,2,25444
+Tiruppur,2949,3,Unfurnished,1,14,3,36034
+Vellore,1624,1,Semi Furnished,1,19,1,14059
+Coimbatore,1328,1,Fully Furnished,0,7,3,24297
+Madurai,2436,1,Fully Furnished,0,16,1,31063
+Chennai,2908,2,Unfurnished,0,16,3,63025
+Salem,1324,4,Unfurnished,1,1,1,16686
+Chennai,1981,1,Fully Furnished,1,4,1,50871
+Chennai,789,1,Semi Furnished,0,4,2,18298
+Madurai,2017,2,Unfurnished,1,7,1,24505
+Chennai,655,1,Unfurnished,0,8,2,12902
+Coimbatore,1108,3,Fully Furnished,0,17,2,21281
+Coimbatore,2238,3,Semi Furnished,1,5,2,43372
+Tiruchirappalli,2344,4,Fully Furnished,1,7,3,40393
+Tiruppur,2897,1,Semi Furnished,1,4,3,36540
+Vellore,409,2,Semi Furnished,1,6,3,7331
+Salem,1197,3,Semi Furnished,0,7,3,14487
+Chennai,1276,2,Unfurnished,0,18,1,25880
+Chennai,1428,2,Fully Furnished,0,5,1,38557
+Madurai,1415,3,Fully Furnished,0,3,3,26516
+Tiruppur,2224,2,Semi Furnished,0,7,1,25133
+Coimbatore,773,3,Unfurnished,1,14,1,12155
+Salem,2593,2,Unfurnished,0,7,2,25988
+Tiruchirappalli,623,3,Fully Furnished,0,5,2,10154
+Coimbatore,1662,1,Unfurnished,0,5,2,21042
+Tiruppur,2624,4,Unfurnished,1,2,2,37424
+Vellore,2202,3,Semi Furnished,1,6,1,25224
+Tiruchirappalli,1252,3,Unfurnished,1,15,3,18226
+Vellore,462,4,Semi Furnished,1,10,1,6189
+Madurai,1640,3,Fully Furnished,0,7,1,26880
+Madurai,1088,3,Unfurnished,0,5,1,14394
+Chennai,1884,2,Fully Furnished,1,1,2,55636
+Vellore,2033,4,Fully Furnished,1,13,2,30920
+Tiruppur,2552,1,Unfurnished,0,18,2,23004
+Salem,910,3,Unfurnished,0,13,3,11011
+Tiruchirappalli,784,4,Fully Furnished,1,18,1,11987
+Coimbatore,804,2,Unfurnished,1,5,3,15149
+Tiruppur,917,1,Semi Furnished,1,13,2,11510
+Tiruppur,875,4,Semi Furnished,1,4,3,15044
+Madurai,2400,1,Unfurnished,0,17,1,24027
+Vellore,2068,1,Fully Furnished,0,3,1,21840
+Chennai,2293,1,Unfurnished,0,17,2,44007
+Chennai,1860,3,Unfurnished,1,11,2,47346
+Tiruchirappalli,1113,3,Fully Furnished,1,4,3,20731
+Madurai,482,2,Fully Furnished,0,2,2,7886
+Tiruppur,1568,2,Semi Furnished,0,16,2,17460
+Salem,2904,4,Fully Furnished,0,18,1,39607
+Madurai,2301,2,Semi Furnished,0,8,2,31578
+Tiruchirappalli,2448,1,Fully Furnished,1,3,2,32864
+Tiruchirappalli,450,1,Unfurnished,0,9,1,3386
+Madurai,1084,3,Semi Furnished,0,6,1,15415
+Tiruchirappalli,1116,1,Semi Furnished,0,10,3,13206
+Madurai,1869,4,Semi Furnished,0,10,2,30687
+Coimbatore,848,1,Unfurnished,0,13,1,9512
+Madurai,1280,1,Unfurnished,0,17,3,14985
+Vellore,887,4,Unfurnished,0,9,3,11179
+Madurai,2223,2,Unfurnished,1,17,2,25481
+Tiruchirappalli,2481,2,Unfurnished,1,9,2,28531
+Vellore,2542,4,Semi Furnished,1,9,3,34083
+Tiruchirappalli,1974,3,Unfurnished,1,1,1,24925
+Chennai,2601,1,Semi Furnished,0,2,3,59354
+Chennai,649,4,Unfurnished,1,16,2,18700
+Vellore,1073,1,Fully Furnished,1,1,1,12749
+Coimbatore,837,3,Semi Furnished,0,10,1,13604
+Chennai,2565,1,Fully Furnished,0,18,3,60852
+Madurai,1170,4,Semi Furnished,1,8,2,19893
+Tiruchirappalli,667,1,Fully Furnished,1,11,3,10016
+Chennai,2384,2,Unfurnished,0,2,3,53024
+Chennai,1477,3,Unfurnished,1,8,3,40608
+Coimbatore,635,3,Unfurnished,0,8,1,9204
+Vellore,788,3,Semi Furnished,0,17,1,7194
+Vellore,1162,4,Fully Furnished,0,15,2,15175
+Tiruppur,2248,3,Unfurnished,0,17,2,26904
+Coimbatore,2848,2,Fully Furnished,1,13,3,59837
+Madurai,1023,4,Fully Furnished,0,19,3,18972
+Vellore,1652,2,Unfurnished,0,5,3,18887
+Tiruchirappalli,977,1,Unfurnished,1,12,2,11087
+Coimbatore,2522,1,Fully Furnished,0,1,1,43743
+Chennai,834,1,Unfurnished,1,5,1,18292
+Tiruchirappalli,2550,1,Unfurnished,1,8,3,28387
+Tiruchirappalli,1163,2,Unfurnished,1,13,3,14193
+Chennai,1729,4,Semi Furnished,0,8,3,53280
+Coimbatore,2545,4,Fully Furnished,1,11,3,58713
+Chennai,1758,3,Fully Furnished,1,1,2,54872
+Tiruppur,2882,2,Semi Furnished,0,13,1,32105
+Tiruchirappalli,846,1,Fully Furnished,1,19,3,12363
+Salem,2417,2,Unfurnished,1,3,2,26669
+Salem,1731,3,Fully Furnished,1,17,3,26313
+Madurai,648,3,Unfurnished,1,5,3,11518
+Vellore,565,2,Semi Furnished,1,8,1,6433
+Chennai,1758,2,Unfurnished,0,14,3,40734
+Chennai,1419,2,Fully Furnished,1,4,1,42881
+Madurai,941,4,Fully Furnished,1,11,1,18574
+Madurai,1158,1,Fully Furnished,0,15,1,14072
+Madurai,2528,2,Semi Furnished,0,19,2,33374
+Tiruchirappalli,2580,2,Semi Furnished,0,7,2,34080
+Tiruppur,1196,2,Fully Furnished,1,19,1,14517
+Chennai,537,3,Unfurnished,0,19,3,13445
+Tiruchirappalli,2631,3,Semi Furnished,1,11,1,36280
+Madurai,1753,4,Fully Furnished,1,5,3,36872
+Chennai,2275,1,Fully Furnished,0,5,1,53172
+Tiruchirappalli,468,4,Semi Furnished,0,8,3,7925
+Tiruppur,2993,1,Semi Furnished,1,10,2,32640
+Tiruchirappalli,2500,3,Semi Furnished,0,6,3,35483
+Tiruppur,1873,3,Unfurnished,1,15,1,22291
+Madurai,604,3,Unfurnished,0,16,2,7402
+Tiruppur,2573,4,Fully Furnished,0,17,3,40637
+Chennai,442,2,Semi Furnished,0,8,3,12338
+Madurai,2306,2,Unfurnished,1,8,3,30980
+Chennai,2558,3,Semi Furnished,0,9,3,74259
+Salem,1160,2,Fully Furnished,1,2,3,18280
+Coimbatore,2542,2,Unfurnished,1,15,2,38431
+Tiruppur,2394,4,Unfurnished,1,18,2,31256
+Coimbatore,2335,1,Unfurnished,1,3,2,34131
+Coimbatore,1299,3,Fully Furnished,0,17,2,24321
+Tiruppur,759,3,Semi Furnished,1,4,1,10656
+Madurai,2119,4,Unfurnished,1,4,2,32601
+Salem,680,4,Fully Furnished,0,14,3,10682
+Chennai,2287,2,Semi Furnished,1,9,3,60574
+Tiruchirappalli,1066,3,Fully Furnished,0,9,2,15732
+Chennai,492,1,Semi Furnished,1,18,3,12682
+Tiruchirappalli,1071,4,Fully Furnished,0,10,2,17566
+Chennai,2369,1,Semi Furnished,1,4,3,55253
+Tiruppur,460,1,Unfurnished,0,12,1,3000
+Salem,1428,3,Semi Furnished,1,8,1,16886
+Tiruchirappalli,1889,3,Fully Furnished,1,2,2,31269
+Vellore,1003,4,Fully Furnished,0,13,2,15208
+Madurai,1081,3,Semi Furnished,0,16,2,14043
+Chennai,2981,3,Unfurnished,0,2,3,74128
+Chennai,1828,3,Unfurnished,0,11,2,46099
+Tiruchirappalli,2680,1,Semi Furnished,1,10,1,29840
+Madurai,923,4,Semi Furnished,1,15,3,17180
+Madurai,2793,2,Fully Furnished,0,17,2,37153
+Tiruppur,2993,1,Unfurnished,1,8,3,31971
+Vellore,2368,3,Semi Furnished,0,18,3,26623
+Tiruppur,1501,1,Unfurnished,0,9,2,14481
+Tiruppur,2153,3,Semi Furnished,1,8,3,30258
+Tiruppur,2236,3,Semi Furnished,1,14,1,30800
+Tiruppur,2696,1,Unfurnished,1,18,1,25359
+Tiruppur,2494,4,Semi Furnished,1,12,3,36860
+Salem,1544,3,Semi Furnished,1,19,2,17948
+Madurai,2661,4,Fully Furnished,1,14,3,50360
+Tiruppur,2686,2,Semi Furnished,1,17,1,31487
+Madurai,1479,3,Semi Furnished,0,3,3,23439
+Madurai,2797,4,Semi Furnished,0,7,3,44936
+Coimbatore,506,4,Fully Furnished,0,17,1,9130
+Salem,447,2,Unfurnished,0,12,3,5546
+Tiruppur,736,4,Fully Furnished,0,9,3,13304
+Chennai,1449,4,Fully Furnished,1,15,2,51369
+Tiruchirappalli,1680,2,Unfurnished,0,18,2,16822
+Vellore,2455,3,Fully Furnished,0,13,1,31150
+Chennai,1024,4,Unfurnished,0,8,1,25946
+Salem,2290,4,Fully Furnished,0,14,1,32549
+Tiruchirappalli,1676,4,Unfurnished,0,8,2,22722
+Salem,2115,1,Semi Furnished,0,14,1,19572
+Madurai,702,2,Fully Furnished,0,7,1,9894
+Tiruchirappalli,1038,1,Fully Furnished,1,12,1,12359
+Madurai,455,2,Fully Furnished,1,11,2,7958
+Chennai,1125,3,Fully Furnished,0,11,3,37198
+Chennai,925,3,Semi Furnished,1,13,1,24346
+Tiruchirappalli,873,4,Fully Furnished,1,18,3,16342
+Tiruchirappalli,427,2,Semi Furnished,1,2,1,6697
+Tiruppur,2525,3,Semi Furnished,1,15,3,34813
+Salem,764,2,Semi Furnished,0,18,2,7606
+Tiruppur,925,3,Semi Furnished,1,15,2,13104
+Salem,1735,1,Unfurnished,1,19,1,13578
+Tiruppur,1282,3,Unfurnished,1,12,3,16928
+Madurai,1430,1,Fully Furnished,0,13,2,19300
+Tiruchirappalli,1426,3,Unfurnished,0,11,1,16819
+Chennai,2046,4,Unfurnished,0,5,1,53555
+Salem,1318,1,Fully Furnished,0,1,2,15370
+Salem,2810,3,Fully Furnished,0,3,2,38185
+Chennai,2174,4,Fully Furnished,0,19,1,71917
+Tiruppur,1931,1,Unfurnished,0,7,3,19635
+Salem,2306,4,Unfurnished,1,12,3,30123
+Vellore,1615,2,Fully Furnished,1,15,3,21801
+Madurai,2054,2,Semi Furnished,1,5,1,24761
+Tiruchirappalli,884,1,Fully Furnished,0,15,2,11166
+Chennai,2475,3,Semi Furnished,0,8,1,63025
+Tiruchirappalli,1113,1,Semi Furnished,0,10,2,12237
+Vellore,1462,4,Fully Furnished,0,16,3,19860
+Salem,2376,3,Fully Furnished,0,8,3,33533
+Salem,1696,2,Fully Furnished,1,1,2,24963
+Vellore,1654,3,Unfurnished,1,12,2,17122
+Chennai,2533,2,Semi Furnished,0,5,1,63432
+Madurai,525,3,Unfurnished,0,3,3,8871
+Coimbatore,936,3,Unfurnished,0,1,1,15622
+Chennai,2592,3,Fully Furnished,0,4,1,79977
+Coimbatore,2472,4,Unfurnished,1,8,1,45831
+Vellore,2003,4,Fully Furnished,0,3,3,29524
+Tiruppur,466,1,Semi Furnished,0,10,1,3590
+Coimbatore,632,1,Fully Furnished,0,2,1,9815
+Madurai,2556,2,Unfurnished,0,11,1,29929
+Tiruppur,1569,4,Unfurnished,1,10,1,21435
+Coimbatore,2558,2,Fully Furnished,0,14,1,42904
+Vellore,2675,1,Fully Furnished,0,7,1,26903
+Tiruppur,510,2,Unfurnished,1,2,3,8949
+Vellore,1893,1,Semi Furnished,1,9,1,18350
+Coimbatore,2481,4,Semi Furnished,1,16,2,51658
+Vellore,1022,3,Fully Furnished,0,13,1,11718
+Madurai,2872,4,Semi Furnished,0,9,1,43851
+Coimbatore,1941,2,Unfurnished,1,4,3,33970
+Coimbatore,1705,2,Fully Furnished,1,10,3,35586
+Coimbatore,2161,4,Unfurnished,1,12,2,41023
+Chennai,2375,4,Unfurnished,1,17,2,63645
+Chennai,2762,1,Semi Furnished,1,14,3,64829
+Chennai,1276,2,Fully Furnished,1,14,3,36330
+Madurai,2389,2,Fully Furnished,0,2,1,34466
+Tiruppur,1712,4,Semi Furnished,0,11,3,25548
+Vellore,1860,3,Unfurnished,0,16,2,17500
+Salem,2724,2,Unfurnished,1,19,1,26557
+Coimbatore,2133,3,Unfurnished,1,6,2,36703
+Vellore,2005,4,Unfurnished,1,19,1,20835
+Coimbatore,1926,4,Fully Furnished,1,5,3,44897
+Madurai,2963,1,Fully Furnished,1,4,2,42036
+Coimbatore,2797,2,Semi Furnished,1,15,1,47746
+Chennai,2030,3,Semi Furnished,0,4,1,52159
+Salem,1560,1,Fully Furnished,0,10,3,19660
+Tiruchirappalli,1158,2,Fully Furnished,1,3,3,19511
+Coimbatore,642,1,Unfurnished,0,5,3,11015
+Vellore,2990,4,Unfurnished,1,6,2,35193
+Chennai,1463,2,Semi Furnished,0,8,1,34377
+Tiruchirappalli,628,1,Fully Furnished,1,7,3,10991
+Salem,2995,1,Semi Furnished,1,10,2,30926
+Tiruchirappalli,1319,3,Fully Furnished,0,6,2,21208
+Chennai,1646,1,Unfurnished,0,14,2,29275
+Tiruppur,405,2,Semi Furnished,1,4,3,8882
+Tiruppur,867,2,Semi Furnished,1,13,3,12777
+Tiruchirappalli,2155,3,Fully Furnished,0,17,1,30342
+Madurai,474,2,Unfurnished,0,7,1,4740
+Vellore,403,4,Semi Furnished,1,4,3,8179
+Vellore,2270,2,Unfurnished,0,14,2,21629
+Tiruchirappalli,1045,2,Semi Furnished,1,3,2,15580
+Coimbatore,517,1,Unfurnished,1,5,2,9020
+Coimbatore,2029,1,Fully Furnished,1,16,1,35316
+Vellore,2951,2,Semi Furnished,1,4,2,31858
+Vellore,2421,3,Semi Furnished,0,2,1,26393
+Tiruppur,1346,1,Unfurnished,0,18,1,11325
+Madurai,1864,3,Unfurnished,0,19,2,24081
+Chennai,593,2,Semi Furnished,0,19,2,14012
+Coimbatore,1246,2,Fully Furnished,0,17,3,22912
+Vellore,1815,4,Unfurnished,0,14,3,20620
+Tiruppur,1858,1,Unfurnished,0,19,2,16241
+Salem,2620,2,Unfurnished,1,13,1,25278
+Tiruppur,2068,4,Semi Furnished,0,12,1,27990
+Coimbatore,2773,1,Semi Furnished,0,6,1,39243
+Coimbatore,1833,2,Semi Furnished,1,4,1,29799
+Tiruppur,1541,2,Semi Furnished,0,19,1,15606
+Chennai,2210,1,Fully Furnished,0,16,3,52330
+Tiruchirappalli,1123,1,Fully Furnished,1,13,2,13954
+Coimbatore,624,1,Semi Furnished,0,4,3,11246
+Tiruppur,931,2,Fully Furnished,0,17,1,9467

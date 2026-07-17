@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+/* ─── CSS Variables ─────────────────────────────────────────── */
+:root {
+  --green-900: #0d2b1a;
+  --green-800: #143d26;
+  --green-700: #1a5233;
+  --green-600: #1e6b3f;
+  --green-500: #2d8653;
+  --green-400: #3aa66a;
+  --green-300: #6ec48f;
+  --green-100: #d6f0e0;
+  --green-50:  #f0faf4;
+
+  --cream-100: #fafaf8;
+  --cream-200: #f2f0eb;
+
+  --gold-400: #b8952a;
+  --gold-300: #d4ae50;
+
+  --text-primary:   #0d1f15;
+  --text-secondary: #3d5a47;
+  --text-muted:     #7a9485;
+  --text-on-dark:   #e8f5ee;
+
+  --border:     #c8ddd1;
+  --shadow-sm:  0 1px 4px rgba(14, 43, 26, 0.08);
+  --shadow-md:  0 4px 16px rgba(14, 43, 26, 0.12);
+  --shadow-lg:  0 8px 32px rgba(14, 43, 26, 0.16);
+  --radius-sm:  6px;
+  --radius-md:  10px;
+  --radius-lg:  16px;
+
+  --sidebar-width: 240px;
+  --navbar-height: 64px;
+}
+
+[data-theme="dark"] {
+  --green-50:       #0d1f15;
+  --cream-100:      #111c15;
+  --cream-200:      #162010;
+  --text-primary:   #e8f5ee;
+  --text-secondary: #a8c8b4;
+  --text-muted:     #6a8a75;
+  --border:         #1e3d28;
+  --shadow-md:      0 4px 16px rgba(0, 0, 0, 0.35);
+}
+
+/* ─── Reset & Base ──────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.7;
+  color: var(--text-secondary);
+  background-color: var(--green-50);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Typography ────────────────────────────────────────────── */
+h1 { font-size: clamp(28px, 5vw, 48px); font-weight: 700; color: var(--text-primary); line-height: 1.15; }
+h2 { font-size: 24px; font-weight: 600; color: var(--text-primary); }
+h3 { font-size: 18px; font-weight: 600; color: var(--text-primary); }
+h4 { font-size: 15px; font-weight: 600; color: var(--text-primary); }
+
+p { color: var(--text-secondary); }
+
+a {
+  color: var(--green-600);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a:hover { color: var(--green-400); }
+
+/* ─── Layout Utilities ──────────────────────────────────────── */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.section {
+  padding: 72px 0;
+}
+
+.section-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--text-primary);
+  padding-left: 14px;
+  border-left: 3px solid var(--green-400);
+  margin-bottom: 32px;
+}
+
+.grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
+.grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+.grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
+
+.flex { display: flex; }
+.flex-center { display: flex; align-items: center; justify-content: center; }
+.flex-between { display: flex; align-items: center; justify-content: space-between; }
+.flex-gap-sm { gap: 8px; }
+.flex-gap-md { gap: 16px; }
+
+/* ─── Cards ─────────────────────────────────────────────────── */
+.card {
+  background: var(--cream-100);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--border);
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+/* ─── Badges & Pills ─────────────────────────────────────────── */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+.badge-green  { background: var(--green-100); color: var(--green-700); }
+.badge-gold   { background: #fef3cd; color: var(--gold-400); }
+.badge-grey   { background: #e8e8e8; color: #666; }
+.badge-red    { background: #fde8e8; color: #c0392b; }
+
+/* ─── Form Elements ──────────────────────────────────────────── */
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.form-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.form-input,
+.form-select,
+.form-textarea {
+  width: 100%;
+  padding: 10px 14px;
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-md);
+  font-size: 14px;
+  font-family: inherit;
+  color: var(--text-primary);
+  background: var(--cream-100);
+  transition: border-color 0.2s, box-shadow 0.2s;
+  outline: none;
+}
+
+.form-input:focus,
+.form-select:focus,
+.form-textarea:focus {
+  border-color: var(--green-400);
+  box-shadow: 0 0 0 3px rgba(58, 166, 106, 0.15);
+}
+
+.form-input::placeholder { color: var(--text-muted); }
+.form-textarea { resize: vertical; min-height: 100px; }
+
+/* ─── Price Display ──────────────────────────────────────────── */
+.price {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--green-600);
+}
+
+/* ─── Stat Cards ─────────────────────────────────────────────── */
+.stat-card {
+  background: var(--cream-100);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  text-align: center;
+}
+.stat-card .stat-value {
+  font-size: 32px;
+  font-weight: 800;
+  color: var(--green-600);
+}
+.stat-card .stat-label {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+/* ─── Page Background ────────────────────────────────────────── */
+.page-bg {
+  min-height: 100vh;
+  background: var(--green-50);
+  padding-top: var(--navbar-height);
+}
+
+/* ─── Divider ────────────────────────────────────────────────── */
+.divider {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 24px 0;
+}
+
+/* ─── Scrollbar ──────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--green-300); border-radius: 3px; }
+
+/* ─── Responsive ─────────────────────────────────────────────── */
+@media (max-width: 1024px) {
+  .grid-4 { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 768px) {
+  .grid-2,
+  .grid-3,
+  .grid-4 { grid-template-columns: 1fr; }
+  .section { padding: 48px 0; }
+}
